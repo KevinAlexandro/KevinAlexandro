@@ -6,11 +6,10 @@ Welcome to my GitHub! I'm a passionate computer science engineer with a love for
 
 - 🎓 **Major**: Computer Science  
 - 📍 **Location**: Quito - Ecuador  
-- 💼 **Current Job/Position**: Finding new challenges  
-- 📧 **Email**: [kgonzalezc@yahoo.com]  
-- 🌱 **Current Learning**: [Data Engineering, Software Development, etc.]  
-- 💬 **Ask me about**: [RPA, Python, Data Engineering, Web Scraping, Soccer]  
-- ⚡ **Fun Fact**: [I play soccer horribly, but I still do it anyway.]
+- 💼 **Current Job/Position**: Finding new challenges
+- 🌱 **Current Learning**: Data Engineering, Software Development, etc.  
+- 💬 **Ask me about**: RPA, Python, Data Engineering, Web Scraping, Soccer  
+- ⚡ **Fun Fact**: I play soccer horribly, but I still do it anyway.
 
 ## Skills & Technologies
 
@@ -32,9 +31,11 @@ Here are some of the tools and technologies I love working with:
 
 ## Get in Touch
 
-- 📧 **Email**: [kgonzalezc@yahoo.com]
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/kevingonzalezcastro/]
+- 📧 [Email](mailto:kgonzalezc@yahoo.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevingonzalezcastro/)
 
 [//]: # (- 🌐 **Website/Portfolio**: [Your Personal Website or Portfolio URL])
 
 Feel free to explore my repositories or get in touch with me if you have any questions or want to collaborate! 😄
+
+- :briefcase: 
