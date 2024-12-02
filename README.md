@@ -15,10 +15,10 @@ Welcome to my GitHub! I'm a passionate computer science engineer with a love for
 
 Here are some of the tools and technologies I love working with:
 
-- **Languages**: [Python, Java, C#, Swift, C++, Vba]
-- **Databases**: [MySQL, PostgreSQL]
-- **Tools**: [GitHub, Git]
-- **Other**: [Automation Anywhere]
+- **Languages**: Python, Java, C#, Swift, C++, Vba
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: GitHub, Git
+- **Other**: Automation Anywhere
 
 [//]: # (## Projects)
 
