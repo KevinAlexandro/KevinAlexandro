@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Gonzalez 👋
 
-Welcome to my GitHub! I'm a passionate computer science engineer with a love for process automation, data engineering, and software development.
+Welcome to my GitHub! I'm a passionate computer science engineer with a love for web crawling, process automation, data engineering, and software development.
 
 ## About Me
 
