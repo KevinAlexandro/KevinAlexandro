@@ -38,4 +38,7 @@ Here are some of the tools and technologies I love working with:
 
 Feel free to explore my repositories or get in touch with me if you have any questions or want to collaborate! 😄
 
+## :zap: Recent Activity
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAlexandro&hide_border=true&layout=compact)
