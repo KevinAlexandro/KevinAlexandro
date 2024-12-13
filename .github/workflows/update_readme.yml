@@ -3,9 +3,10 @@ name: Update README
 on:
   schedule:
     - cron: '0 */72 * * *' # Cada 12 horas
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
