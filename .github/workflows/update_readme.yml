@@ -11,5 +11,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Update README with recent activity
-        uses: KevinAlexandro/KevinAlexandro@main # Reemplaza con tu información
+      
+      - name: GitHub - Activity - Readme
+      # You may pin to the exact commit or the version.
+      # uses: jamesgeorge007/github-activity-readme@df57d5cab9b53277241f93190e176b38dd95eb1a
+        uses: KevinAlexandro/KevinAlexandro@main
+          
