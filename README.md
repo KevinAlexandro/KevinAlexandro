@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate computer science engineer with a love for
 - 🎓 **Major**: Computer Science  
 - 📍 **Location**: Vancouver - Canada
 - 💼 **Current Job/Position**: Big Data Master's student at Simon Fraser University
-- 🌱 **Current Learning**: Data Engineering, Software Development, etc.  
+- 🌱 **Current Learning**: Data Engineering, Software Engineering
 - 💬 **Ask me about**: RPA, Python, Data Engineering, Web Scraping, Soccer  
 - ⚡ **Fun Fact**: I play soccer horribly, but I still do it anyway.
 - 🏠 **Originally from**: Quito - Ecuador  
